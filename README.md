@@ -1,3 +1,4 @@
 # best-repo-ever
 vim is the coolest tool ever
-mergeeeee
+
+shouldnt really b on the same line
